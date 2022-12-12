@@ -1,0 +1,11 @@
+@charset "UTF-8";
+.container .content h1 {
+    color: #FC1986;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.content .navigation a {
+    color: #FF188A;
+}
+.container .content .navigation {
+    color: #FF188A;
+}

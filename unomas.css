@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.content p img {
+    background-color: #E7D1FF;
+    padding-top: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 12px;
+}
+.container .content h1 {
+    color: #FF1C8D;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.content .navigation a {
+    color: #FF188A;
+}
+.container .content .navigation {
+    color: #FF188A;
+}
